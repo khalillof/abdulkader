@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+seaborn
+nltk
+scikit-learn
+torch  # Ensure you have the correct version installed
+networkx
